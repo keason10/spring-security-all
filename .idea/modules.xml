@@ -3,8 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/keason-app/keason-app.iml" filepath="$PROJECT_DIR$/keason-app/keason-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keason-app/keason-app.iml" filepath="$PROJECT_DIR$/keason-app/keason-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/keason-core/keason-core.iml" filepath="$PROJECT_DIR$/keason-core/keason-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/keason-app/keason-core.iml" filepath="$PROJECT_DIR$/keason-app/keason-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/keason-web/keason-web.iml" filepath="$PROJECT_DIR$/keason-web/keason-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/keason-web/keason-web.iml" filepath="$PROJECT_DIR$/keason-web/keason-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/security-core/security-core.iml" filepath="$PROJECT_DIR$/security-core/security-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/security-app/security-web.iml" filepath="$PROJECT_DIR$/security-app/security-web.iml" />
